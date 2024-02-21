@@ -1,0 +1,44 @@
+Newfoundland and Labrador,Female,570,745,865,900,"1,050",530,"1,270","1,600","1,535"
+Newfoundland and Labrador,Male,"1,075","1,240","1,370","1,400","1,565",850,"2,025","2,290","2,205"
+Newfoundland and Labrador,Another gender,0,0,0,0,0,0,0,0,0
+Prince Edward Island ,Female,425,525,670,765,885,615,905,"1,120","1,360"
+Prince Edward Island ,Male,485,650,780,"1,090","1,010",680,985,"1,280","1,435"
+Prince Edward Island ,Gender not stated,0,0,0,0,0,0,0,0,0
+Nova Scotia,Female,"2,715","3,185","3,500","4,445","4,605","2,315","4,405","6,235","6,905"
+Nova Scotia,Male,"3,535","3,840","4,270","5,445","5,740","2,705","5,550","6,880","7,405"
+Nova Scotia,Another gender,0,0,0,0,0,0,0,0,0
+Nova Scotia,Gender not stated,0,0,0,0,0,0,0,0,0
+New Brunswick,Female,880,"1,070","1,150","1,550","1,820",945,"2,655","3,535","4,480"
+New Brunswick,Male,"1,440","1,550","1,760","2,180","2,545","1,320","3,270","4,105","5,315"
+New Brunswick,Another gender,0,0,0,0,0,0,0,0,0
+New Brunswick,Gender not stated,0,0,0,0,0,0,0,0,0
+Quebec,Female,"13,605","15,180","17,645","19,855","25,060","18,570","28,805","28,900","31,285"
+Quebec,Male,"16,600","18,215","20,315","24,130","32,010","23,785","34,650","33,730","37,690"
+Quebec,Another gender,0,0,0,0,0,0,0,5,20
+Quebec,Gender not stated,0,0,0,0,0,0,0,0,5
+Ontario,Female,"42,625","55,170","69,545","79,540","91,755","56,295","101,065","134,545","139,720"
+Ontario,Male,"53,460","68,625","85,860","94,620","106,410","63,285","118,570","155,325","161,000"
+Ontario,Another gender,0,0,10,5,5,0,35,30,20
+Ontario,Gender not stated,0,0,0,0,5,0,0,5,5
+Manitoba,Female,"2,845","3,550","4,450","5,175","5,360","3,695","5,955","6,960","7,915"
+Manitoba,Male,"4,085","5,025","6,000","6,810","6,665","4,685","6,635","7,820","8,825"
+Manitoba,Another gender,0,0,0,0,0,0,0,0,0
+Manitoba,Gender not stated,0,0,0,0,0,0,0,0,0
+Saskatchewan,Female,"1,640","1,750","1,845","2,220","2,465","1,465","2,720","3,680","4,550"
+Saskatchewan,Male,"2,265","2,585","2,670","3,540","3,785","2,015","3,675","4,740","5,495"
+Saskatchewan,Another gender,0,0,0,0,0,0,0,0,0
+Alberta,Female,"6,905","7,860","7,975","8,935","9,815","6,130","11,360","14,110","17,195"
+Alberta,Male,"7,640","8,340","8,650","9,795","10,620","6,685","12,365","14,430","17,730"
+Alberta,Another gender,0,0,0,0,0,0,0,0,0
+Alberta,Gender not stated,0,0,0,0,0,0,0,0,0
+British Columbia,Female,"27,490","32,615","37,975","40,590","43,110","29,510","48,510","57,835","54,910"
+British Columbia,Male,"29,260","33,030","38,400","41,025","42,960","29,490","45,490","52,500","53,610"
+British Columbia,Another gender,0,0,0,0,0,0,0,10,10
+British Columbia,Gender not stated,0,0,0,0,0,0,0,0,0
+Yukon,Female,20,35,80,40,65,55,95,80,105
+Yukon,Male,15,25,115,35,70,60,105,80,120
+Northwest Territories,Female,5,10,15,15,15,10,15,20,20
+Northwest Territories,Male,15,10,10,10,15,10,15,15,25
+Nunavut,Female,0,0,0,0,5,0,5,0,5
+Nunavut,Male,0,0,0,0,0,0,0,0,0
+Province/territory not stated Total,,40,125,100,960,"1,850",635,"3,495","7,830","8,925"
